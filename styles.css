@@ -1,0 +1,22 @@
+Body {
+    background-color: rgb(230, 235, 224);
+    font-size: 25px;
+    font-weight: 600;
+     'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.img{
+    border-radius:100px;
+    
+}
+.drop {
+    background-color: darkgray;
+}
+.con {
+    background-color: darkgray;
+}
+.info {
+  font-size: 15px;  
+  font-weight: 100;
+  font-family: 'Times New Roman', Times, serif;
+}
